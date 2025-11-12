@@ -76,4 +76,6 @@ class Segment{
 	}
 	
 }
-class New{} 
+class mn{
+    
+}
